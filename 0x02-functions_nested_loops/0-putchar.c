@@ -1,8 +1,9 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by mfoniso
-	 * Return: 0
+	 * main - entry point
+	 * 
+	 * description:a function that prints the alphabet
+	 * Return: 0(success)
 	 */
 
 
